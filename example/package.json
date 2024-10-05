@@ -1,0 +1,11 @@
+{
+  "name": "build-node-addon-api-with-cmake",
+  "version": "0.0.0",
+  "description": "Build Node-API native addon with CMake and node-addon-api C++ wrapper.",
+  "main": "index.js",
+  "private": true,
+  "dependencies": {
+    "@dusknguyen/ffi-napi": "^4.0.3-1"
+  },
+  "scripts": {}
+}

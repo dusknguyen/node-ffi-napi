@@ -3,7 +3,7 @@
 #include <math.h>
 #include <napi.h>
 #include <uv.h>
-#include <get-uv-event-loop-napi.h>
+#include "get-uv-event-loop-napi.h"
 
 using namespace Napi;
 
